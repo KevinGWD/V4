@@ -14,9 +14,7 @@ const config = {
   env: "development",
   port: 3000,
   jwtSecret: "YOUR_secret_key",
-  mongoUri:
-  "mongodb+srv://areebahnadeem91:areebahnadeem91@cluster0.xff7ivj.mongodb.net/onlinemarketplace?retryWrites=true&w=majority" ,
-};
+  mongoUri:"mongodb+srv://Comp229G3:Comp229G3@cluster0.3tdemug.mongodb.net/onlinemarketplace?retryWrites=true&w=majority"};
 export default config;
 
 
